@@ -4,7 +4,7 @@ title: The Adventure Company
 permalink: /the-adventure-company
 ---
 
-<a href="http://www.adventurecompany.co.uk/">![](/assets/adventurecompany-450x303.png "Adventure Company")</a>
+<a href="http://www.adventurecompany.co.uk/">![]({{site.baseurl}}/assets/adventurecompany-450x303.png "Adventure Company")</a>
 
 It didn't take me much to decide who to go with. A quick Google for 'Everest base camp trek' results in a whole load of companies offering their services and I pretty much went with whoever had the best website, haha. Let that be a lesson for business owners everywhere.
 

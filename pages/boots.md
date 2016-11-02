@@ -15,7 +15,7 @@ I spent quite a while talking to the guy in the store about my posture, footsize
 
 Surprisingly, it turns out I have some [over pronation](http://www.sportsinjuryclinic.net/cybertherapist/general/pronate.htm) and needed some decently rigid insoles. I also found out that my right foot is about half a size larger than my left. Not too unusual (it's quite common), but while I suspected it, I never bothered to check with any sort of measurement. If you're going to be walking over rocky ground, you need less flexible shoes so you're not wasting energy wobbling over little rocks and slipping about on loose dirt.
 
-![](/assets/footwear.jpg "Boots and Stuff")
+![]({{site.baseurl}}/assets/footwear.jpg "Boots and Stuff")
 
 The huge-ass shoebox also makes for quite a nice memorabilia container - useful for all these notes and receipts and whatnot...
 

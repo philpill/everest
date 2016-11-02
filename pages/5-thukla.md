@@ -5,7 +5,7 @@ permalink: /thukla
 ---
 
 Tuesday 22nd November
-![](/assets/thukla1.jpg "Thukla")
+![]({{site.baseurl}}/assets/thukla1.jpg "Thukla")
 
 I'm 30!
 
@@ -14,7 +14,7 @@ My willingness to write in my notebook seems to have taken a nosedive here, with
 I vaguely remember doing lots of walking and feeling crap attributed to AMS.
 
 The other thing I remember is trying to use one of those squat toilets for the first time, and pissing all over the back of my trousers. Good way to start your 30th. (Although one of our group had bad diarrhoea which result in a nasty accident in the trouser department - way worse than me, haha.)
-![](/assets/mrt.jpg "Mr T")
+![]({{site.baseurl}}/assets/mrt.jpg "Mr T")
 
 Met (Tashi, I think) Tshering Sherpa from [Into Thin Air](http://en.wikipedia.org/wiki/Into_Thin_Air) of [Scott Fischer's Mountain Madness](http://www.mountainmadness.com/about/company-history/scott-fischer) - he gave me a Mars bar for my birthday, and the guys baked me a cake (which was flat and didn't rise much during baking as the air was a bit thinner up there) and I got few other presents, a card and a silk scarf!
 

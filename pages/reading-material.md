@@ -4,7 +4,7 @@ title: Reading Material
 permalink: /reading-material
 ---
 
-<a href="http://www.amazon.co.uk/gp/product/174104832X/"><img title="Lonely Planet Nepal" src="/assets/lonelyplanet-99x150.jpg" /></a>
+<a href="http://www.amazon.co.uk/gp/product/174104832X/"><img title="Lonely Planet Nepal" src="{{site.baseurl}}/assets/lonelyplanet-99x150.jpg" /></a>
 
 I'm not really sure if there're other equivalent 'Lonely Planet' style books out there, but these seem ubiquitous enough, and I've never heard a bad thing about them, so ... they'll do.
 
@@ -16,13 +16,13 @@ I did have a look on a lot of other sites for researching clothing, climate and 
 
 Update: Everest related reading
 
-<a href="http://www.amazon.co.uk/gp/product/0330488961/"><img src="/assets/BoukreevTheClimb-99x150.jpg" /></a>
+<a href="http://www.amazon.co.uk/gp/product/0330488961/"><img src="{{site.baseurl}}/assets/BoukreevTheClimb-99x150.jpg" /></a>
 
-<a href="http://www.amazon.co.uk/gp/product/1447200187/"><img src="/assets/intothinair-97x150.jpg" /></a>
+<a href="http://www.amazon.co.uk/gp/product/1447200187/"><img src="{{site.baseurl}}/assets/intothinair-97x150.jpg" /></a>
 
 Update: Kindle!
 
-<a href="http://www.amazon.co.uk/gp/product/B0051QVF7A/"><img title="Amazon Kindle" src="/assets/kindle.jpg" /><a/>
+<a href="http://www.amazon.co.uk/gp/product/B0051QVF7A/"><img title="Amazon Kindle" src="{{site.baseurl}}/assets/kindle.jpg" /><a/>
 
 Afterthoughts:
 

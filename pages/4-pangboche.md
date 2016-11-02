@@ -5,7 +5,7 @@ permalink: /pangboche
 ---
 
 Monday 21st November
-![](/assets/pangboche.jpg "Pangboche")
+![]({{site.baseurl}}/assets/pangboche.jpg "Pangboche")
 
 We went to Pangboche?
 
