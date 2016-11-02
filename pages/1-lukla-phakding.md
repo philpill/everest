@@ -34,4 +34,4 @@ I seem to remember we crossed an awful lot of bridges over the next few days. Th
 Trekked out to Phakding (2652m).
 ![](/assets/phakding.jpg "Phakding")
 
-<a href="/namche-bazaar/" title="Day 2 – Namche Bazaar">Day 2 – Namche Bazaar</a>
+<a href="namche-bazaar">Day 2 – Namche Bazaar</a>

@@ -13,4 +13,4 @@ This lodge was owned by a guy who had summited Everest twice and his wife (I thi
 
 Also, I had to get up to go to the toilet in the middle of the night - it was an outdoor affair (just outside of the photo above, to the right) and it was colllllld!
 
-<a href="/thukla/" title="Day 5 – Birthday in Thukla">Day 5 – Birthday in Thukla</a>
+[Day 5 – Birthday in Thukla](thukla)

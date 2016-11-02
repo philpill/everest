@@ -25,4 +25,4 @@ The whole area was a desolate expanse of rock. There was nothing to break up the
 
 After photos, and graffiting the base camp rock, we headed back to the teahouse for celebratory Diamox and garlic soup.
 
-<a title="Day 7 – Kala Patthar" href="/kala-patthar/">Day 7 – Kala Patthar</a>
+[Day 7 – Kala Patthar](kala-patthar)

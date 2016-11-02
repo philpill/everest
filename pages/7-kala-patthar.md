@@ -22,4 +22,4 @@ Had breakfast and headed down to Tengboche, I think ... ? I forget. My notes we
 
 We set off from Gorak Shep, but I've no idea where we stayed this night.
 
-<a title="Day 8+ – Return Journey" href="/return-journey/">Day 8+ – Return Journey</a>
+[Day 8+ – Return Journey](return-journey)

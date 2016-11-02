@@ -111,4 +111,4 @@ Still nothing. I was resigned to going to Annapurna. Hung around Boudha where th
 
 Upon returning to the hotel, we were informed by Hari, via reception that we were to pack our bags tonight, to be ready to leave for the airport at 7 in the morning. There was hope for our trek yet ...
 
-[Day 1 – Lukla to Phakding](/lukla-phakding/" title="Day 1 – Lukla to Phakding)
+[Day 1 – Lukla to Phakding](lukla-phakding)

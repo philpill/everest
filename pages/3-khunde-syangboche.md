@@ -7,7 +7,7 @@ permalink: /khunde-syangboche
 Sunday 20th November
 ![](/assets/syangboche.jpg "Syangboche")
 
-Woke up early to walk through conservation area up to <a href="http://en.wikipedia.org/wiki/Syangboche_Airport">Syangboche</a> (3,841m) and back down to acclimatise.
+Woke up early to walk through conservation area up to [Syangboche](http://en.wikipedia.org/wiki/Syangboche_Airport) (3,841m) and back down to acclimatise.
 
 Bloody yaks! Get out the way!
 ![](/assets/yaks.jpg "Yaks")
@@ -19,4 +19,4 @@ I did some minor shopping - loaded up on chocolate bars and got some Diamox and 
 
 I had written down in my notes that today's walk was particularly hard, but little did I know of what was to come - today would be a country stroll by comparison ...
 
-<a title="Day 4 – Pangboche" href="/pangboche/">Day 4 – Pangboche</a>
+[Day 4 – Pangboche](pangboche)
