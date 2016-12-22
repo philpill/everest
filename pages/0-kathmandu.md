@@ -90,8 +90,10 @@ Was supposed to fly out to Lukla today (woke up at 5, left after coffee), but sp
 
 Tuesday 15th November
 
-No flights again. Went out around Sundhara Square and Asan Tole bazaar<br />
+No flights again. Went out around Sundhara Square and Asan Tole bazaar
+
 ![]({{site.baseurl}}/assets/sundhara.jpg "sundhara")
+
 ![]({{site.baseurl}}/assets/asantole.jpg "asantole")
 
 Went to [Roadhouse Cafe](http://www.tripadvisor.co.uk/Restaurant_Review-g293890-d1077835-Reviews-Roadhouse_Cafe-Kathmandu.html) for pizza. At this point, we had to start to think about what to do if we couldn't get a flight out to Lukla at all. Our alternative option was to head out to [Annapurna](http://en.wikipedia.org/wiki/Annapurna) Basecamp instead. Annapurna I is the world's 10th highest mountain, and one of the 14 whose peak reach beyond 8000m - one of the legendary [8000'ers](http://en.wikipedia.org/wiki/Eight-thousander). I was kinda reluctant to consider this possibility as I rather selfishly wanted the kudos of reaching Everest Basecamp (who the hell's heard of *Annapurna* ...)
@@ -107,6 +109,7 @@ Hung around Boudha and Thamel. Dropped off souvenirs back in lockers at original
 Thursday 17th November
 
 Still nothing. I was resigned to going to Annapurna. Hung around Boudha where there was a little festival going on.
+
 ![]({{site.baseurl}}/assets/festival.jpg "festival")
 
 Upon returning to the hotel, we were informed by Hari, via reception that we were to pack our bags tonight, to be ready to leave for the airport at 7 in the morning. There was hope for our trek yet ...
