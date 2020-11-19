@@ -1,0 +1,16 @@
+---
+layout: default
+title: End
+permalink: /end
+---
+
+What I thought ...
+
+What problems I had ...
+
+What I didn't like ...
+
+Highlights ...
+
+What I'd do differently next time ...
+![]({{site.baseurl}}/assets/pinboard.jpg "pinboard")
