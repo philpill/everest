@@ -34,3 +34,6 @@ I think I'd take more socks in future though - I didn't count on having to chang
 Another thing which might come a cropper in the future is that these boots aren't configured for attaching [crampons](http://en.wikipedia.org/wiki/Crampons) for ice climbing. If you're buying new boots and into that sorta thing, this might be worth bearing in mind.
 
 EDIT 06/01/15: Turns out these boots are rated B1, and so will accept crampons of rating C1. It's only taken me three years to work it out! On a plus point, I'm still wearing these boots, and they have seen me through Kilimanjaro, Kinabalu, Iceland, Sweden and numerous trips in Scotland and Wales, and they're still going strong!
+
+EDIT 06/17: So, a good 6 years later, after a hike down some super-boggy non-nts (National Trust Scotland) munro, the boots (no longer watertight - the toe rand had split) were immersed in mud and water and were unceremoniously dumped at the campsite.
+
