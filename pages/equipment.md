@@ -3,7 +3,7 @@ layout: default
 title: Equipment
 permalink: /equipment
 ---
-![]({{site.baseurl}}/assets/bits.jpg "Miscellaneous Bits")
+![](assets/bits.jpg "Miscellaneous Bits")
 
 * Kindle
 * Lonely Planet: Nepal

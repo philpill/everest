@@ -40,10 +40,10 @@ I was told I won't need to worry about the Japanese B. Encephalitis as you catch
 ... as for the others, it's unlikely that I'll be bitten too much by mosquitoes (not to mention I can take my own precautions) as I'll be traveling during the Nepalese winter. It'll be around 0°C. TB, meningitis and 'flu I think I've already been vaccinated against as a child.
 
 You can get some of these free on the NHS, but as I've not taken the time to register with a doctor in London (and my own is way up north, in Yorkshire), I won't have time, which means I have to pay for it. These can get really expensive - my course of 9 injections is over four weeks will total up to about £350 mostly as a few of these vaccines have to be taken as a course of several injections.
-![]({{site.baseurl}}/assets/vacs1.jpg "Vaccinations")
+![](assets/vacs1.jpg "Vaccinations")
 
 Having to take three shots in one go is not much fun, especially if you have to do it three times. While it's not painful, my arms felt sore and ached for the next day or so. No exercising (climbing, in my case).
-![]({{site.baseurl}}/assets/vacs2.jpg "Vaccinations")
+![](assets/vacs2.jpg "Vaccinations")
 
 Update: Got my final 3 shots today. Feels good to have all that over and done with. Just have to take a coupla boosters over the next few years to completely immunize myself.
 
@@ -55,8 +55,8 @@ Update: Got my final 3 shots today. Feels good to have all that over and done wi
 *Total Cost: £345.50*
 
 ... aaaand some more images, just for my own records:
-![]({{site.baseurl}}/assets/vacsrecord1.jpg "Vaccinations Records")
-![]({{site.baseurl}}/assets/vacsrecord2.jpg "Vaccinations Record")
+![](assets/vacsrecord1.jpg "Vaccinations Records")
+![](assets/vacsrecord2.jpg "Vaccinations Record")
 
 Tetanus/Diptheria/Polio (<a href="http://www.netdoctor.co.uk/medicines/100005089.html">Revaxis</a>) - booster 10y<br />
 Hepatitis A (<a href="http://www.netdoctor.co.uk/medicines/100003051.html">Avaxim</a>) - booster 6m ~ 1y<br />

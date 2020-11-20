@@ -3,7 +3,7 @@ layout: default
 title: Clothes
 permalink: /clothes
 ---
-![]({{site.baseurl}}/assets/clothes.jpg "Trekking Clothes")
+![](assets/clothes.jpg "Trekking Clothes")
 
 Not being an outdoorsy type, I didn't have much in the way of 'extreme' clothing, so there was a full wardrobe to buy, with little idea of what exactly, was needed.
 
