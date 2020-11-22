@@ -20,8 +20,8 @@ body {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    height: calc(100vh - 6rem);
-    overflow-y: scroll;
+    max-height: 100vh;
+    overflow-y: auto;
     background: #ffffff;
 }
 
@@ -51,6 +51,7 @@ a:hover {
     max-width: 30rem;
     margin-left: 1rem;
     margin-right: 1rem;
+    min-height: 40rem;
 }
 
 header {
@@ -88,6 +89,7 @@ img {
         top: 3.5rem;
         height: calc(100vh - 3.5rem);
         overflow: auto;
+        width: 15rem;
     }
     #is-nav-visible:checked+.navigation {
         display: block;
