@@ -87,6 +87,7 @@ img {
         position: fixed;
         top: 3.5rem;
         height: calc(100vh - 3.5rem);
+        overflow: auto;
     }
     #is-nav-visible:checked+.navigation {
         display: block;
