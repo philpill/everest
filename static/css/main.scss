@@ -10,6 +10,15 @@ body {
     line-height: 1.5;
 }
 
+header {
+    border-bottom: solid 1px #999999;
+}
+
+h1 {
+    margin: 0.5rem 0;
+    font-size: 1.6rem;
+}
+
 .header-nav {
     display: none;
 }
@@ -23,6 +32,7 @@ body {
     max-height: 100vh;
     overflow-y: auto;
     background: #ffffff;
+    width: 15rem;
 }
 
 #is-nav-visible {
@@ -64,7 +74,6 @@ img {
 
 @media all and (max-width: 48rem) {
     header {
-        border-bottom: solid 1px #999999;
         position: fixed;
         width: 100%;
         background: #ffffff;
