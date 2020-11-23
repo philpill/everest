@@ -4,25 +4,25 @@ title: Reading Material
 permalink: /reading-material
 ---
 
-<a href="http://www.amazon.co.uk/gp/product/174104832X/"><img title="Lonely Planet Nepal" src="assets/lonelyplanet-99x150.jpg" /></a>
+[![](assets/lonelyplanet-99x150.jpg "Lonely Planet Nepal")](http://www.amazon.co.uk/gp/product/174104832X/)
 
 I'm not really sure if there're other equivalent 'Lonely Planet' style books out there, but these seem ubiquitous enough, and I've never heard a bad thing about them, so ... they'll do.
 
 Though you might only be going to basecamp, this book has a load of information you might need about visas, money, diseases and places to stay and eat. There's a whole section for trek routes, and not just for basecamp. Another which caught my eye was the Annapurna Circuit, which I'd like to visit if I ever come back.
 
-This book is pretty solid. I'll be sure to take it along with me. Other than that ... do I need anything else? I thought about maybe getting myself a <a href="http://www.amazon.co.uk/gp/product/B002LVUWFE/">Kindle</a> to take with me. Not sure how much reading I'll be doing out there, but it'd be nice to have something to do if I get bored.
+This book is pretty solid. I'll be sure to take it along with me. Other than that ... do I need anything else? I thought about maybe getting myself a [Kindle](http://www.amazon.co.uk/gp/product/B002LVUWFE/) to take with me. Not sure how much reading I'll be doing out there, but it'd be nice to have something to do if I get bored.
 
 I did have a look on a lot of other sites for researching clothing, climate and vaccinations (the book is a sparse on these details), but this is general info, available anywhere.
 
 Update: Everest related reading
 
-<a href="http://www.amazon.co.uk/gp/product/0330488961/"><img src="assets/BoukreevTheClimb-99x150.jpg" /></a>
+[![](assets/BoukreevTheClimb-99x150.jpg "")](http://www.amazon.co.uk/gp/product/0330488961/)
 
-<a href="http://www.amazon.co.uk/gp/product/1447200187/"><img src="assets/intothinair-97x150.jpg" /></a>
+[![](assets/intothinair-97x150.jpg "")](http://www.amazon.co.uk/gp/product/1447200187/)
 
 Update: Kindle!
 
-<a href="http://www.amazon.co.uk/gp/product/B0051QVF7A/"><img title="Amazon Kindle" src="assets/kindle.jpg" /><a/>
+[![](assets/kindle.jpg "Amazon Kindle")](http://www.amazon.co.uk/gp/product/B0051QVF7A/)
 
 Afterthoughts:
 

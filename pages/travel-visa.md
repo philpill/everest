@@ -14,7 +14,7 @@ The Adventure Co. tells me I need the following:
 * 6 months validity on my passport
 
 
-That's what's applicable to me, anyway. See their PDF for <a href="https://www.adventurecompany.co.uk/files/uploads/visa_information/nepal-req2.pdf">more details</a>. or differing circumstances (shorter/longer visas, children, extensions, etc.)
+That's what's applicable to me, anyway. See their PDF for [more details](https://www.adventurecompany.co.uk/files/uploads/visa_information/nepal-req2.pdf). or differing circumstances (shorter/longer visas, children, extensions, etc.)
 
 The Lonely Planet guide pretty much tells me the same. There're a number of different routes of acquiring the documents you need, but they all amount to the same thing.
 

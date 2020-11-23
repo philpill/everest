@@ -7,12 +7,12 @@ permalink: /equipment
 
 * Kindle
 * Lonely Planet: Nepal
-* <a href="http://www.petzl.com/en/node/16804">Petzl Tikka XP</a> Headtorch
+* [Petzl Tikka XP](http://www.petzl.com/en/node/16804) Headtorch
 * Notebook and pens
 * Passport
 * Vaccination card
-* <a href="http://www.lifeventure.co.uk/htm/security/body-wallet-waist.html">Moneybelt</a>
-* <a href="/preparation/digital-camera/">Digital Camera</a> (not in photo, for obvious reasons ...)
+* [Moneybelt](http://www.lifeventure.co.uk/htm/security/body-wallet-waist.html)
+* [Digital Camera](/preparation/digital-camera/) (not in photo, for obvious reasons ...)
 * Spare camera batteries and charger with European plug
 * Duct tape
 * Lighter
@@ -36,6 +36,6 @@ Items to consider:
 * Penknife - I never really needed one, but you never know
 * Digital watch with altimeter and thermometer (also handy to have an alarm for wake-up calls)
 * Pedometer - would have been interesting to know the little details
-* <a href="http://www.amazon.co.uk/gp/product/B000SM3MYG/">Moneyclip</a> (instead of a moneybelt)
+* [Moneyclip](http://www.amazon.co.uk/gp/product/B000SM3MYG/) (instead of a moneybelt)
 * Smaller pocket sized notebook (the one I took was A5)
 

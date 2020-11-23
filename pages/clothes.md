@@ -3,15 +3,16 @@ layout: default
 title: Clothes
 permalink: /clothes
 ---
+
 ![](assets/clothes.jpg "Trekking Clothes")
 
 Not being an outdoorsy type, I didn't have much in the way of 'extreme' clothing, so there was a full wardrobe to buy, with little idea of what exactly, was needed.
 
 Having read a few books and online articles, it seems like the most important thing to keep in mind is to dress in layers - lots of thin, breathable layers you can peel off and slip back on as required.
 
-Wikipedia has quite <a href="http://en.wikipedia.org/wiki/Layered_clothing">a good article on layered clothing</a>.
+Wikipedia has quite [a good article on layered clothing](http://en.wikipedia.org/wiki/Layered_clothing).
 
-The most important (and expensive - £260) piece of clothing I would buy would be my down jacket (<a href="https://www.norrona.com/en-GB/Products/3174-12/7718/lyngen-lightweight-down750-jacket-m/">Norrona Lyngen Down750</a>).
+The most important (and expensive - £260) piece of clothing I would buy would be my down jacket ([Norrona Lyngen Down750](https://www.norrona.com/en-GB/archive/lyngen/lyngen-lightweight-down750-jacket-m2-2012/)).
 
 I've no clue about down jackets, so I settled on going to Snow+Rock and buying one there based on the advice of a sales assistant. As mentioned with the boots, if you know what you're looking for, you can easily buy stuff for cheaper online.
 
@@ -64,9 +65,9 @@ If I had to do the trip again, I'd make the following changes:
 * compression sacks for dirty laundry and down jacket
 
 
-I'd take more walking trousers (possibly one or two more pairs) to change into, and a pair of something warm and comfortable to sleep, and lounge about in when hanging around the lodge (e.g. tracksuit bottoms). Some regular t-shirts would also have been nice, as well as trainers, when not on the trail (you can see a pair in the photo which I decided not to take at the last minute, to save space). It's quite annoying having to put on hiking boots in the middle of the night to go to the toilet, and usually too cold for just flipflops. I'd also take even more socks as well as a <a href="http://www.lifeventure.co.uk/htm/packables/compression-stuff-sacks.html">compression sack</a> (like what sleeping bags come with) to keep all my dirty laundry in (I was using plastic shopping bags and they took up for too much room in my bag).
+I'd take more walking trousers (possibly one or two more pairs) to change into, and a pair of something warm and comfortable to sleep, and lounge about in when hanging around the lodge (e.g. tracksuit bottoms). Some regular t-shirts would also have been nice, as well as trainers, when not on the trail (you can see a pair in the photo which I decided not to take at the last minute, to save space). It's quite annoying having to put on hiking boots in the middle of the night to go to the toilet, and usually too cold for just flipflops. I'd also take even more socks as well as a [compression sack](http://www.lifeventure.co.uk/htm/packables/compression-stuff-sacks.html) (like what sleeping bags come with) to keep all my dirty laundry in (I was using plastic shopping bags and they took up for too much room in my bag).
 
-It would also have been nice to have had decent sunglasses for the trek. I had hoped to buy a pair of <a href="http://www.sports-sunglasses-eyewear.co.uk/cat_4_sunglasses.html">category 4 sunglasses</a> once I got out there, but not even The Sunglass Hut sell eyewear designed for the mountains. In the end, I had to settle for a cheap pair of knock-offs I bought from some random shop for a tenner. They steamed up when I wore them with my scarf over my face (dust in mouth, or dust in eyes?), but they kept the sun out all right, plus they blocked out the cold wind (which'd really mess up my contact lens) and that was all I needed them for, really.
+It would also have been nice to have had decent sunglasses for the trek. I had hoped to buy a pair of [category 4 sunglasses](http://www.sports-sunglasses-eyewear.co.uk/cat_4_sunglasses.html) once I got out there, but not even The Sunglass Hut sell eyewear designed for the mountains. In the end, I had to settle for a cheap pair of knock-offs I bought from some random shop for a tenner. They steamed up when I wore them with my scarf over my face (dust in mouth, or dust in eyes?), but they kept the sun out all right, plus they blocked out the cold wind (which'd really mess up my contact lens) and that was all I needed them for, really.
 
 Snowboard gloves were also a bit overkill. My thin liner (gloves) did the job well enough and I found keeping my hands in my pockets kept them warmer than my thick gloves would. Maybe a pair of three finger mitts would do the job better, especially if you plan on using trekking poles and can't just use your pockets.
 

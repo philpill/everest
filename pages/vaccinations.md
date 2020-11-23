@@ -23,7 +23,7 @@ In addition, Lonely Planet recommends:
 * Tuberculosis
 * Yellow Fever
 
-I went to a UK travel clinic called <a href="http://www.nomadtravel.co.uk/pages/nomad-travel-clinics">Nomad</a> who gave (or are currently giving) me the following:
+I went to a UK travel clinic called [Nomad](http://www.nomadtravel.co.uk/pages/nomad-travel-clinics) who gave (or are currently giving) me the following:
 
 * Hepatitis A
 * Hepatitis B
@@ -58,11 +58,11 @@ Update: Got my final 3 shots today. Feels good to have all that over and done wi
 ![](assets/vacsrecord1.jpg "Vaccinations Records")
 ![](assets/vacsrecord2.jpg "Vaccinations Record")
 
-Tetanus/Diptheria/Polio (<a href="http://www.netdoctor.co.uk/medicines/100005089.html">Revaxis</a>) - booster 10y<br />
-Hepatitis A (<a href="http://www.netdoctor.co.uk/medicines/100003051.html">Avaxim</a>) - booster 6m ~ 1y<br />
-Typhoid (<a href="http://www.netdoctor.co.uk/medicines/100003093.html">Typhim Vi</a>) - booster 3y<br />
-Hepatitis B (<a href="http://www.netdoctor.co.uk/medicines/100003062.html">Engenix B</a>) - booster 1y<br />
-Rabies (<a href="http://www.netdoctor.co.uk/medicines/100003085.html">Rabies BP</a>) - booster 3y ~ 5y
+Tetanus/Diptheria/Polio ([Revaxis](http://www.netdoctor.co.uk/medicines/100005089.html)) - booster 10y<br />
+Hepatitis A ([Avaxim](http://www.netdoctor.co.uk/medicines/100003051.html)) - booster 6m ~ 1y<br />
+Typhoid ([Typhim Vi](http://www.netdoctor.co.uk/medicines/100003093.html)) - booster 3y<br />
+Hepatitis B ([Engenix B](http://www.netdoctor.co.uk/medicines/100003062.html)) - booster 1y<br />
+Rabies ([Rabies BP](http://www.netdoctor.co.uk/medicines/100003085.html)) - booster 3y ~ 5y
 
 Afterthoughts:
 
