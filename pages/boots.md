@@ -35,5 +35,4 @@ Another thing which might come a cropper in the future is that these boots aren'
 
 EDIT 06/01/15: Turns out these boots are rated B1, and so will accept crampons of rating C1. It's only taken me three years to work it out! On a plus point, I'm still wearing these boots, and they have seen me through Kilimanjaro, Kinabalu, Iceland, Sweden and numerous trips in Scotland and Wales, and they're still going strong!
 
-EDIT 06/17: So, a good 6 years later, after a hike down some super-boggy non-nts (National Trust Scotland) munro, the boots (no longer watertight - the toe rand had split) were immersed in mud and water and were unceremoniously dumped at the campsite.
-
+EDIT 06/17: So, a good 6 years later, these boots finally met their demise in the Cairngorms trying to summit [Carn nan Gabhar](https://www.walkhighlands.co.uk/munros/carn-nan-gabhar.php). The day was horrendous, and after a few years of stomping around the world, the rubber rand at the front of each shoe had split and were no longer waterproof. The trails on this particular trek ended in knee-high mud and by the time we got back to camp, they weren't worth cleaning or keeping. After six long, faithful years of excellent service, they were left unceremoniously in the campsite bin.
