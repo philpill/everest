@@ -127,7 +127,8 @@ img {
 @media(prefers-color-scheme: dark) {
     body,
     .navigation,
-    header {
+    header,
+    .header-nav {
         background-color: $color-black;
     } 
     body {
