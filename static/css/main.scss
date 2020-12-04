@@ -6,6 +6,8 @@
 
 $color-grey: #999;
 $color-white: #fff;
+$color-black: #222;
+$color-pale-blue: #79c;
 
 body { 
     font-family: 'Lato', sans-serif;
@@ -117,5 +119,21 @@ img {
     .content {
         margin-top: 3rem;
         max-width: initial;
+    }
+}
+
+@media(prefers-color-scheme: dark) {
+    body,
+    .navigation {
+        background-color: $color-black;
+    } 
+    body {
+        color: $color-grey;
+    }
+    a:link {
+        color: $color-pale-blue;
+    }
+    img {
+      filter: grayscale(50%);
     }
 }
