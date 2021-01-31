@@ -24,6 +24,8 @@ url: "https://everest.philshum.co.uk" # the base hostname & protocol for your si
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
+repository: philpill/everest.github.io
+
 # Build settings
 markdown: kramdown
 plugins:
