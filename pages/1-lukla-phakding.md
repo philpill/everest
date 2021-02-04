@@ -12,7 +12,7 @@ Got a flight around 10 in a Twin Otter small plane for about 20 people. We still
 
 ![](assets/twinotter.jpg "Twin Otter Airplane")
 
-Landed in Lukla (2860m). There were [stranded trekkers](http://www.reuters.com/article/2011/11/04/uk-nepal-everest-tourists-idUSLNE7A304S20111104) [everywhere](http://edition.cnn.com/2011/11/07/world/asia/nepal-trekkers-rescue/index.html). I think Hari said this was probably the worst weather problems he'd ever seen over here, with the longest delays. People were fighting to pay thousands to take helicopter flights out back to Kathmandu, and we were the first to arrive in Lukla since the weather cleared. We would be leading the way!
+Landed in Lukla (2860m). There were [stranded trekkers](https://www.reuters.com/article/uk-nepal-everest-tourists-idUKLNE7A304S20111104) [everywhere](http://edition.cnn.com/2011/11/07/world/asia/nepal-trekkers-rescue/index.html). I think Hari said this was probably the worst weather problems he'd ever seen over here, with the longest delays. People were fighting to pay thousands to take helicopter flights out back to Kathmandu, and we were the first to arrive in Lukla since the weather cleared. We would be leading the way!
 
 ![](assets/lukla.jpg "Lukla Airport")
 
