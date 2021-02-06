@@ -12,13 +12,13 @@ Preface: Due to inclement weather over in Lukla, our flight was delayed by 4 day
 
 Friday 11th -Saturday 12th November
 
-![](assets/luggage.jpg "luggage")
+![](assets/optimised/luggage.jpg "luggage")
 
 Having packed all my gear, I enthusiastically trekked to London Heathrow looking every bit like a tourist. At customs I nearly lost my moneybelt and all my money when it failed to emerge from the baggage scanner! There must've been four hundred pounds of various currencies in there ... That taught me very early on to keep an eye on my most important possessions.
 
 The flights were included with the package I had booked through the Adventure Company and I wasn't too impressed with my assigned airline: [Jet Air](http://www.jetairways.com/). I was a tad sceptical - I'd never heard of Jet Air and was expecting a crap Indian version of Jet2. Turns out I had nothing to worry about - this was a very luxurious flight (for someone who generally doesn't fly much) which included two meals (dinner and breakfast) and in-flight entertainment (I watched Harry Potter: The Deathly Hallows and Captain America - both rather new films at the time). I noticed a few others watching [Touching The Void](http://en.wikipedia.org/wiki/Touching_the_Void_(film)) (a mountain climbing disaster film), which kinda amused me.
 
-![](assets/plane.jpg "plane")
+![](assets/optimised/plane.jpg "plane")
 
 I was sat next to the window and I have to say, the scenery was spectacular - watching the rolling mountains and plains and villages slowly morph into towns which grew into sprawling cities over the landscape. Unfortunately, I couldn't take any photos to do this view justice, but it was quite beautiful.
 
@@ -48,7 +48,7 @@ Then Rob followed me in moments later and told us he'd given them £20. I didn't
 
 With our minibus loaded, I met the rest of the group (five others, plus three in the [Gokyo Lakes](http://en.wikipedia.org/wiki/Gokyo_Ri) trek group) and we set off to the hotel.
 
-![](assets/traffic.jpg "traffic")
+![](assets/optimised/traffic.jpg "traffic")
 
 As a large proportion of the Nepalese are Hindu (about 80%, according to [wiki](http://en.wikipedia.org/wiki/Hinduism_in_Nepal)) the cows are sacred and left to wander the city, living off the refuse. I wonder if it wouldn't be more humane to round them up and keep them in the countryside, rather than put up with the human generated dirt and pollution. For some reason, the dog population also runs free and unchecked. Typically unafraid of people, they sleep undisturbed all over the roads and pavements. Most of these animals look horribly diseased - missing patches of fur due to mange or some other skin condition. Enough to make you think more than twice about stroking them.I have to admit, the journey was an eye-opener.
 
@@ -56,11 +56,11 @@ I knew almost nothing of Kathmandu prior to arrival, and I had not expected the 
 
 Dogs and cows, pollution and money-grubbing locals would be with us the whole time till we left for the mountains.
 
-![](assets/hotel.jpg "hotel")
+![](assets/optimised/hotel.jpg "hotel")
 
 So after an interesting ride through the city, we'd arrived at our hotel and met Hari, our guide for the trek.
 
-![](assets/Hari.jpg "Hari")
+![](assets/optimised/Hari.jpg "Hari")
 
 As our group were made up of two couples, me and Sarah, I got a twin room all to myself. Seems like Western sensibilities don't allow boys and girls to share, not that I would've minded ... This sleeping arrangement was to hold the whole way through our trip for various lodges and teahouses and would come in handy later on when I was in need of those spare extra blankets! We arrived at the [Hotel Tibet](http://www.tripadvisor.co.uk/Hotel_Review-g293890-d338255-Reviews-Hotel_Tibet-Kathmandu.html) where we were to stay while we did the tourist thing in the city. All told, the hotel was very nice - the rooms were en suite, and had TVs.
 
@@ -74,19 +74,19 @@ Today was to be spent doing the touristy thing and stocking up on any supplies a
 
 Today, we mostly went around by minibus, criss-crossing the city a few times. I was still absolutely amazed by the insane traffic and laxity of road safety (e.g. up until recently, it was actually *illegal* for motorbike passengers to wear helmets but despite that law no longer being in effect, people still don't bother). The honking of horns echoes throughout the city, not in the aggressive manner Westerners tend to use their horns, but more as a defensive gesture, to let others know they're there.
 
-![](assets/monkeytemple.jpg "monkeytemple")
+![](assets/optimised/monkeytemple.jpg "monkeytemple")
 
 [Swayambhunath (Monkey Temple)](http://en.wikipedia.org/wiki/Swayambhunath)
-![](assets/durbar.jpg "durbar")
+![](assets/optimised/durbar.jpg "durbar")
 
 [Durbar Square](http://en.wikipedia.org/wiki/Kathmandu_Durbar_Square)
-![](assets/boudha.jpg "boudha")
+![](assets/optimised/boudha.jpg "boudha")
 
 [Boudhanath](http://en.wikipedia.org/wiki/Boudhanath)
-![](assets/pashupatinath.jpg "pashupatinath")
+![](assets/optimised/pashupatinath.jpg "pashupatinath")
 
 [Pashupatinath](http://en.wikipedia.org/wiki/Pashupatinath_Temple)
-![](assets/kilroys.jpg "kilroys")
+![](assets/optimised/kilroys.jpg "kilroys")
 
 Went to [Thamel](http://en.wikipedia.org/wiki/Thamel) for last minute shopping. We all bought some cheapo souvenirs, topped up on meds and supplies, and hired any equipment we needed. We had dinner at [Kilroy's](http://www.tripadvisor.co.uk/Restaurant_Review-g293890-d1155264-Reviews-Kilroy_s_of_Kathmandu-Kathmandu.html).
 
@@ -98,9 +98,9 @@ Tuesday 15th November
 
 No flights again. Went out around Sundhara Square and Asan Tole bazaar
 
-![](assets/sundhara.jpg "sundhara")
+![](assets/optimised/sundhara.jpg "sundhara")
 
-![](assets/asantole.jpg "asantole")
+![](assets/optimised/asantole.jpg "asantole")
 
 Went to [Roadhouse Cafe](http://www.tripadvisor.co.uk/Restaurant_Review-g293890-d1077835-Reviews-Roadhouse_Cafe-Kathmandu.html) for pizza. At this point, we had to start to think about what to do if we couldn't get a flight out to Lukla at all. Our alternative option was to head out to [Annapurna](http://en.wikipedia.org/wiki/Annapurna) Basecamp instead. Annapurna I is the world's 10th highest mountain, and one of the 14 whose peak reach beyond 8000m - one of the legendary [8000'ers](http://en.wikipedia.org/wiki/Eight-thousander). I was kinda reluctant to consider this possibility as I rather selfishly wanted the kudos of reaching Everest Basecamp (who the hell's heard of *Annapurna* ...)
 
@@ -116,7 +116,7 @@ Thursday 17th November
 
 Still nothing. I was resigned to going to Annapurna. Hung around Boudha where there was a little festival going on.
 
-![](assets/festival.jpg "festival")
+![](assets/optimised/festival.jpg "festival")
 
 Upon returning to the hotel, we were informed by Hari, via reception that we were to pack our bags tonight, to be ready to leave for the airport at 7 in the morning. There was hope for our trek yet ...
 

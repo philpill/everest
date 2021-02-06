@@ -7,7 +7,7 @@ Probably the most crucial piece of luggage you'll take with you on your trip. If
 
 Up until this point in my life I've not owned any sort of off-trail footwear. I've typically been limited to sports shoes, trainers and formal shoes and didn't really know what to look for. Luckily, there seems to be quite a few outdoor stores around where I work that I could go ask: Blacks, Cotswold, Ellis Brigham, Kathmandu, Snow+Rock etc.
 
-![](assets/boots.jpg "Mammut Mt Cliff GTX")
+![](assets/optimised/boots.jpg "Mammut Mt Cliff GTX")
 
 So following the advice (hard sell) of one of the guys in the store, I ended up shelling out for a pair of [Mammut Mt Cliff GTX](http://www.snowandrock.com/mammut%20men's%20mt%20cliff%20gtx/mammut/ski-snowboard-outdoor-sports/fcp-product/16370) ([see review here](http://www.outdoorsmagic.com/gear-news/just-in---mammut-mt-cliff-gtx/7809.html)) and a stack of hiking socks of varying thickness. All came up to about £300. You can easily find this stuff for cheaper online if you're willing to take the time and know what you're looking for.
 
@@ -15,7 +15,7 @@ I spent quite a while talking to the guy in the store about my posture, footsize
 
 Surprisingly, it turns out I have some [over pronation](http://www.sportsinjuryclinic.net/cybertherapist/general/pronate.htm) and needed some decently rigid insoles. I also found out that my right foot is about half a size larger than my left. Not too unusual (it's quite common), but while I suspected it, I never bothered to check with any sort of measurement. If you're going to be walking over rocky ground, you need less flexible shoes so you're not wasting energy wobbling over little rocks and slipping about on loose dirt.
 
-![](assets/footwear.jpg "Boots and Stuff")
+![](assets/optimised/footwear.jpg "Boots and Stuff")
 
 The huge-ass shoebox also makes for quite a nice memorabilia container - useful for all these notes and receipts and whatnot...
 

@@ -6,7 +6,7 @@ permalink: /namche-bazaar
 
 Saturday 19th November
 
-![](assets/namche.jpg "Namche Bazaar")
+![](assets/optimised/namche.jpg "Namche Bazaar")
 
 [Namche Bazaar](http://en.wikipedia.org/wiki/Namche_Bazaar) (3440m) is the last large town before you hit the mountains. The main shopping touristy area is made up of maybe two or three streets with shops and lodges selling everything a trekker might need. Along with the usual food and souvenir stalls, these were also quite a few mountain hardware and clothing stores.
 

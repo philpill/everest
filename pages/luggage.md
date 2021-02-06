@@ -6,7 +6,7 @@ permalink: /luggage
 
 Besides toiletries, I tried to pack a minimum of items. I had to buy new bags, a new sleeping bag and a few other bits.
 
-![](assets/bags.jpg "Bags")
+![](assets/optimised/bags.jpg "Bags")
 
 I got myself an [Osprey Talon 33](http://www.amazon.co.uk/gp/product/B005LNBOHY/ref=as_li_ss_tl?ie=UTF8&tag=evernati-21&linkCode=as2&camp=1634&creative=19450&creativeASIN=B005LNBOHY) with a capacity of 35l. It happily held everything I needed it to, and my only real complaint was that it was a bright red colour, and cost me about twenty quid more than I needed to pay (from Snow and Rock). I did sometimes wish it had a zip at the bottom so I didn't have to empty the bag to get something down there. It also had a nice compartment for my 3l Camelbak. It didn't have anything to strap the drinking tube to though, which got annoying.
 
@@ -16,11 +16,11 @@ A note about drinking systems - my drinking tube froze up as we neared Basecamp,
 
 I'm still a bit torn on the matter of a bladder - the convenience of the bladder reminded me to drink more, but a bottle is definitely less hassle. I think next time around, I'd go for the same setup with a second 700ml bottle. Also, the drinking tube got a kink in it, which stops liquid flowing through, which was also a pain at times. I've not used it since, but I suspect that kink will be a permanent annoyance. (There are products out there to alleviate these annoyances - insulating tubes and whatnot.) I'm not sure there is any easier way to carry 3l of water however - carrying three single-litre bottles would not be practical.
 
-![](assets/bagswrapped.jpg "Bags Wrapped")
+![](assets/optimised/bagswrapped.jpg "Bags Wrapped")
 
 Two of the bags I bought - the [holdall](http://www.lifeventure.co.uk/htm/packables/packable-duffle.html) and backpack, were self-packable and while this was novel, they were ultimately useless. The holdall had ripped a large hole in the side at some point (a win for the duct tape!), and the backpack was handy for leaving in the hotel locker with my souvenirs inside. I'll take the backpack out again, as it wraps up small enough to be worthwhile ... the holdall I threw away when I got home. Buying a [90l North Face duffel bag](http://uk.thenorthface.com/tnf-uk-en/base-camp-duffel-l-14.html) would be more worthwhile for future trips.
 
-![](assets/sleeping.jpg "Sleeping Equipment")
+![](assets/optimised/sleeping.jpg "Sleeping Equipment")
 
 For my sleeping bag I ended up with a [Mountain Hardwear Lamina 0](http://www.ellis-brigham.com/sleeping-bags/mountain-hardwear/294210/lamina-0). I wasn't really sure what I needed, but while it turned out to be insanely cold at times, we had rooms and beds (and I had a spare bed in my room to raid for duvets most nights). If you do need to buy a sleeping bag, I recommend a 'mummy' style one which you can wrap over the top of your head for when it gets *really* cold - I found that even a woolly hat wasn't enough for the coldest nights.
 
@@ -34,7 +34,7 @@ The sleeping mat was pretty useless as we stayed in lodges and had beds to sleep
 
 For my trip, we had porters to carry our big bags. They do this by tying together a few bags (two per porter) into one big bag and carrying it on their backs using their own straps and ropes. It does mean that it doesn't really matter how bulky your bag is (but don't carry shitloads though - these guys aren't superhuman or anything).
 
-![](assets/porter.jpg "Porter")
+![](assets/optimised/porter.jpg "Porter")
 
 (Okay, maybe they are, but still, try not to pack loads ...)
 

@@ -4,7 +4,7 @@ title: Reading Material
 permalink: /reading-material
 ---
 
-[![](assets/lonelyplanet-99x150.jpg "Lonely Planet Nepal")](http://www.amazon.co.uk/gp/product/174104832X/)
+[![](assets/optimised/lonelyplanet-99x150.jpg "Lonely Planet Nepal")](http://www.amazon.co.uk/gp/product/174104832X/)
 
 I'm not really sure if there're other equivalent 'Lonely Planet' style books out there, but these seem ubiquitous enough, and I've never heard a bad thing about them, so ... they'll do.
 
@@ -16,13 +16,13 @@ I did have a look on a lot of other sites for researching clothing, climate and 
 
 Update: Everest related reading
 
-[![](assets/BoukreevTheClimb-99x150.jpg "")](http://www.amazon.co.uk/gp/product/0330488961/)
+[![](assets/optimised/BoukreevTheClimb-99x150.jpg "")](http://www.amazon.co.uk/gp/product/0330488961/)
 
-[![](assets/intothinair-97x150.jpg "")](http://www.amazon.co.uk/gp/product/1447200187/)
+[![](assets/optimised/intothinair-97x150.jpg "")](http://www.amazon.co.uk/gp/product/1447200187/)
 
 Update: Kindle!
 
-[![](assets/kindle.jpg "Amazon Kindle")](http://www.amazon.co.uk/gp/product/B0051QVF7A/)
+[![](assets/optimised/kindle.jpg "Amazon Kindle")](http://www.amazon.co.uk/gp/product/B0051QVF7A/)
 
 Afterthoughts:
 

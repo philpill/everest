@@ -6,7 +6,7 @@ permalink: /everest-base-camp
 
 Wednesday 23rd November
 
-![](assets/gorakshep.jpg "Gorak Shep")
+![](assets/optimised/gorakshep.jpg "Gorak Shep")
 
 Today, we had to get up 4am to set off from Thukla at 5am. This was to be one of those days which would start off freezing with us wearing every stitch of clothing we had.
 
@@ -14,13 +14,13 @@ I wasn't going to waste today by spending it with a headache, so I decided to go
 
 Today was going to be the longest day so far - we'd be walking to our next stop, Gorak Shep (5180m), then past and onto Basecamp, then turn around back to the lodge.
 
-![](assets/snowland.jpg "Snowland Highest Inn")
+![](assets/optimised/snowland.jpg "Snowland Highest Inn")
 
 We walked 8 hours to Gorak Shep and carried on for another 3 hours to Everest Basecamp (5364m). We made it ... we had *all* made it!
 
 I made the mistake of running the last few metres to the rock for dramatic effect and it took me a good few minutes to recover - don't doubt the thin air out there!
 
-![](assets/basecamp.jpg "Everest Base Camp")
+![](assets/optimised/basecamp.jpg "Everest Base Camp")
 
 &nbsp;
 

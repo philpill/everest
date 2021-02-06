@@ -4,7 +4,7 @@ title: End
 permalink: /end
 ---
 
-![](assets/pinboard.jpg "pinboard")
+![](assets/optimised/pinboard.jpg "pinboard")
 
 Check out my photos of the trip at: [flickr](https://www.flickr.com/photos/philpill/albums/72157628203769011).
 

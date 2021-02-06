@@ -3,7 +3,7 @@ layout: default
 title: Toiletries
 permalink: /toiletries
 ---
-![](assets/equipment1.jpg "Equipment")
+![](assets/optimised/equipment1.jpg "Equipment")
 
 A lot of the stuff I chose to take on recommendation from books and other sources (as well Adventure Co's website)
 
